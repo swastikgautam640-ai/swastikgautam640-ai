@@ -1,16 +1,28 @@
-## Hi there 👋
+I'm Swastik Gautam, a CSE student passionate about programming, AI, and building cool projects.
 
-<!--
-**swastikgautam640-ai/swastikgautam640-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
 
-Here are some ideas to get you started:
+Data Structures & Algorithms (C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python & AI/ML
+
+Web Development
+
+🔧 Skills
+
+C++
+
+Python
+
+Linux / Ubuntu
+
+🎯 Goals
+
+Become an AI Engineer
+
+Build real-world projects & trading algorithms
+
+Get an internship next year
+
+ 
+ 
